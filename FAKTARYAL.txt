@@ -1,0 +1,5 @@
+
+4 ni  Faktaryali   ==> 24
+5 ni  Faktaryali   ==> 120
+3 ni  Faktaryali   ==> 6
+6 ni  Faktaryali   ==> 720
